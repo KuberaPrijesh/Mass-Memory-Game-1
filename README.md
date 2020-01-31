@@ -11,3 +11,5 @@ It challenges your memory power.
 you can select a box to open it and which shape and colour is behind it and open another box.
 if that two boxes is matched then that both will remains opened,that means you matched the exact matches.
 Else that two boxes will closed you can reselect it to rematch it with same match
+
+At,last if you match all the matches then you will win.
